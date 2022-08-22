@@ -1,4 +1,4 @@
-I'm Yaroslav, a young programmer, freelancer, aspiring UI/UX designer and also a bit of a beatmaker).
+I'm Yaroslav, a young programmer, aspiring UI/UX designer and also a bit of a beatmaker).
 
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">
