@@ -1,4 +1,4 @@
-I'm Yaroslav, a young programmer, aspiring UI/UX designer).
+I'm Yaroslav, a young programmer.
 
 <h3 align="center">Languages I've worked with</h3>
 <p align="center">
